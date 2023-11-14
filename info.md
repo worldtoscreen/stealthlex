@@ -2,7 +2,7 @@
 
 Showcase; https://streamable.com/zj3snh
 
-# If you crash pleease drag the missing DLL's into your system32 folder, I'm working on a fix for this
+# If you crash please drag the missing DLL's into your system32 folder, I'm working on a fix for this
 
 ## Discord Server: https://discord.gg/stealthlex
 
