@@ -8,7 +8,7 @@ Showcase; https://streamable.com/zj3snh
 
 ### What's this?
 
-Introducing the BCI (Better Celex Injector), the ultimate solution to enhance your Celex experience. Designed to optimize your gameplay, the BCI is your go-to injector for Celex, ensuring a smoother and more authentic gaming experience. Say goodbye to crashes and hello to seamless gameplay, all while making your sessions more legit and streamable. With the BCI, you'll be able to level up your Celex adventures, guaranteeing a smoother ride and an enhanced visual appeal that's sure to impress both you and your audience.
+Introducing the BCI (Better Celex Injector), the ultimate solution to enhance your Celex experience. Designed to optimize your gameplay, the BCI is your go-to injector for Celex, ensuring a smoother and more authentic gaming experience. Say goodbye to crashes and hello to seamless gameplay, all while making your sessions more legit and streamable. With the BCI, you'll be able to level up your Celex adventures, guaranteeing a smoother ride and an enhanced visual appeal that's sure to impress both you and your audience. (I have renamed it to stealthlex)
 
 ### General Info
 
