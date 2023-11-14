@@ -1,0 +1,455 @@
+﻿  binding.cpp
+  fs.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(11,33): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(11,45): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(11,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(11,49): error C2143: syntax error: missing ',' before '&'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(12,29): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(12,41): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(12,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(12,45): error C2143: syntax error: missing ',' before '&'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(13,33): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(13,45): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(13,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(13,49): error C2143: syntax error: missing ',' before '&'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(14,28): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(14,40): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(14,44): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(14,44): error C2143: syntax error: missing ',' before '&'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(15,28): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(15,40): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(15,44): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(15,44): error C2143: syntax error: missing ',' before '&'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(16,28): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(16,40): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(16,44): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(16,44): error C2143: syntax error: missing ',' before '&'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(17,25): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(17,37): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(17,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(17,41): error C2143: syntax error: missing ',' before '&'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(7,33): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(7,45): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(7,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(7,49): error C2143: syntax error: missing ',' before '&'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(9,17): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(9,29): error C2039: 'is_directory': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(9,29): error C3861: 'is_directory': identifier not found
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(12,28): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(12,40): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(12,44): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(12,44): error C2143: syntax error: missing ',' before '&'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(14,17): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(14,29): error C2039: 'exists': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(14,29): error C3861: 'exists': identifier not found
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(17,29): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(17,41): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(17,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(17,45): error C2143: syntax error: missing ',' before '&'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(20,27): error C2665: 'std::basic_ofstream<char,std::char_traits<char>>::basic_ofstream': no overloaded function could convert all the argument types
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(257,5): message : could be 'std::basic_ofstream<char,std::char_traits<char>>::basic_ofstream(FILE *)'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(20,27): message : 'std::basic_ofstream<char,std::char_traits<char>>::basic_ofstream(FILE *)': cannot convert argument 1 from 'const int' to 'FILE *'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(20,28): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(237,5): message : or       'std::basic_ofstream<char,std::char_traits<char>>::basic_ofstream(const std::wstring &,std::ios_base::openmode,int)'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(20,27): message : 'std::basic_ofstream<char,std::char_traits<char>>::basic_ofstream(const std::wstring &,std::ios_base::openmode,int)': cannot convert argument 1 from 'const int' to 'const std::wstring &'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(20,28): message : Reason: cannot convert from 'const int' to 'const std::wstring'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(20,28): message : 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2539,5): message : could be 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string(const _Elem *const )'
+          with
+          [
+              _Elem=wchar_t
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(20,28): message : 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string(const _Elem *const )': cannot convert argument 1 from 'const int' to 'const _Elem *const '
+          with
+          [
+              _Elem=wchar_t
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(20,28): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(3072,5): message : or       'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)'
+          with
+          [
+              _Elem=wchar_t,
+              _Alloc=std::allocator<wchar_t>
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(20,28): message : 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)': cannot convert argument 1 from 'const int' to 'std::initializer_list<_Elem>'
+          with
+          [
+              _Elem=wchar_t,
+              _Alloc=std::allocator<wchar_t>
+          ]
+          and
+          [
+              _Elem=wchar_t
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(20,28): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2569,5): message : or       'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string(_Iter,_Iter,const _Alloc &)'
+          with
+          [
+              _Alloc=std::allocator<wchar_t>
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(20,28): message : while trying to match the argument list '(const int)'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(228,5): message : or       'std::basic_ofstream<char,std::char_traits<char>>::basic_ofstream(const wchar_t *,std::ios_base::openmode,int)'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(20,27): message : 'std::basic_ofstream<char,std::char_traits<char>>::basic_ofstream(const wchar_t *,std::ios_base::openmode,int)': cannot convert argument 1 from 'const int' to 'const wchar_t *'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(20,28): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(224,5): message : or       'std::basic_ofstream<char,std::char_traits<char>>::basic_ofstream(const std::string &,std::ios_base::openmode,int)'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(20,27): message : 'std::basic_ofstream<char,std::char_traits<char>>::basic_ofstream(const std::string &,std::ios_base::openmode,int)': cannot convert argument 1 from 'const int' to 'const std::string &'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(20,28): message : Reason: cannot convert from 'const int' to 'const std::string'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(20,28): message : 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string': no overloaded function could convert all the argument types
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2539,5): message : could be 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(20,28): message : 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )': cannot convert argument 1 from 'const int' to 'const _Elem *const '
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(20,28): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(3072,5): message : or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(20,28): message : 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)': cannot convert argument 1 from 'const int' to 'std::initializer_list<_Elem>'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          and
+          [
+              _Elem=char
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(20,28): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2569,5): message : or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(_Iter,_Iter,const _Alloc &)'
+          with
+          [
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(20,28): message : while trying to match the argument list '(const int)'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(216,5): message : or       'std::basic_ofstream<char,std::char_traits<char>>::basic_ofstream(const char *,std::ios_base::openmode,int)'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(20,27): message : 'std::basic_ofstream<char,std::char_traits<char>>::basic_ofstream(const char *,std::ios_base::openmode,int)': cannot convert argument 1 from 'const int' to 'const char *'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(20,28): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(242,5): message : or       'std::basic_ofstream<char,std::char_traits<char>>::basic_ofstream(const _Ty &,std::ios_base::openmode,int)'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(20,27): message : 'std::basic_ofstream<char,std::char_traits<char>>::basic_ofstream(const _Ty &,std::ios_base::openmode,int)': could not deduce template argument for '__formal'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(20,27): message : while trying to match the argument list '(const int)'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(28,17): error C2065: 'data': undeclared identifier
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(42,33): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(42,45): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(42,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(42,49): error C2143: syntax error: missing ',' before '&'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(44,14): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(44,26): error C2039: 'create_directory': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(44,26): error C3861: 'create_directory': identifier not found
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(47,28): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(47,40): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(47,44): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(47,44): error C2143: syntax error: missing ',' before '&'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(49,20): error C2665: 'std::basic_ofstream<char,std::char_traits<char>>::basic_ofstream': no overloaded function could convert all the argument types
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(257,5): message : could be 'std::basic_ofstream<char,std::char_traits<char>>::basic_ofstream(FILE *)'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(49,20): message : 'std::basic_ofstream<char,std::char_traits<char>>::basic_ofstream(FILE *)': cannot convert argument 1 from 'const int' to 'FILE *'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(49,21): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(237,5): message : or       'std::basic_ofstream<char,std::char_traits<char>>::basic_ofstream(const std::wstring &,std::ios_base::openmode,int)'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(49,20): message : 'std::basic_ofstream<char,std::char_traits<char>>::basic_ofstream(const std::wstring &,std::ios_base::openmode,int)': cannot convert argument 1 from 'const int' to 'const std::wstring &'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(49,21): message : Reason: cannot convert from 'const int' to 'const std::wstring'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(49,21): message : 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2539,5): message : could be 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string(const _Elem *const )'
+          with
+          [
+              _Elem=wchar_t
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(49,21): message : 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string(const _Elem *const )': cannot convert argument 1 from 'const int' to 'const _Elem *const '
+          with
+          [
+              _Elem=wchar_t
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(49,21): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(3072,5): message : or       'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)'
+          with
+          [
+              _Elem=wchar_t,
+              _Alloc=std::allocator<wchar_t>
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(49,21): message : 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)': cannot convert argument 1 from 'const int' to 'std::initializer_list<_Elem>'
+          with
+          [
+              _Elem=wchar_t,
+              _Alloc=std::allocator<wchar_t>
+          ]
+          and
+          [
+              _Elem=wchar_t
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(49,21): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2569,5): message : or       'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string(_Iter,_Iter,const _Alloc &)'
+          with
+          [
+              _Alloc=std::allocator<wchar_t>
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(49,21): message : while trying to match the argument list '(const int)'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(228,5): message : or       'std::basic_ofstream<char,std::char_traits<char>>::basic_ofstream(const wchar_t *,std::ios_base::openmode,int)'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(49,20): message : 'std::basic_ofstream<char,std::char_traits<char>>::basic_ofstream(const wchar_t *,std::ios_base::openmode,int)': cannot convert argument 1 from 'const int' to 'const wchar_t *'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(49,21): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(224,5): message : or       'std::basic_ofstream<char,std::char_traits<char>>::basic_ofstream(const std::string &,std::ios_base::openmode,int)'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(49,20): message : 'std::basic_ofstream<char,std::char_traits<char>>::basic_ofstream(const std::string &,std::ios_base::openmode,int)': cannot convert argument 1 from 'const int' to 'const std::string &'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(49,21): message : Reason: cannot convert from 'const int' to 'const std::string'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(49,21): message : 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string': no overloaded function could convert all the argument types
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2539,5): message : could be 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(49,21): message : 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )': cannot convert argument 1 from 'const int' to 'const _Elem *const '
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(49,21): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(3072,5): message : or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(49,21): message : 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)': cannot convert argument 1 from 'const int' to 'std::initializer_list<_Elem>'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          and
+          [
+              _Elem=char
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(49,21): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2569,5): message : or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(_Iter,_Iter,const _Alloc &)'
+          with
+          [
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(49,21): message : while trying to match the argument list '(const int)'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(216,5): message : or       'std::basic_ofstream<char,std::char_traits<char>>::basic_ofstream(const char *,std::ios_base::openmode,int)'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(49,20): message : 'std::basic_ofstream<char,std::char_traits<char>>::basic_ofstream(const char *,std::ios_base::openmode,int)': cannot convert argument 1 from 'const int' to 'const char *'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(49,21): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(242,5): message : or       'std::basic_ofstream<char,std::char_traits<char>>::basic_ofstream(const _Ty &,std::ios_base::openmode,int)'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(49,20): message : 'std::basic_ofstream<char,std::char_traits<char>>::basic_ofstream(const _Ty &,std::ios_base::openmode,int)': could not deduce template argument for '__formal'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(49,20): message : while trying to match the argument list '(const int)'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(53,28): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(53,40): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(53,44): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(53,44): error C2143: syntax error: missing ',' before '&'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(57,19): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(57,31): error C2039: 'exists': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(57,31): error C3861: 'exists': identifier not found
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(64,33): error C2665: 'std::basic_ifstream<char,std::char_traits<char>>::basic_ifstream': no overloaded function could convert all the argument types
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(74,5): message : could be 'std::basic_ifstream<char,std::char_traits<char>>::basic_ifstream(FILE *)'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(64,33): message : 'std::basic_ifstream<char,std::char_traits<char>>::basic_ifstream(FILE *)': cannot convert argument 1 from 'const int' to 'FILE *'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(64,34): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(54,5): message : or       'std::basic_ifstream<char,std::char_traits<char>>::basic_ifstream(const std::wstring &,std::ios_base::openmode,int)'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(64,33): message : 'std::basic_ifstream<char,std::char_traits<char>>::basic_ifstream(const std::wstring &,std::ios_base::openmode,int)': cannot convert argument 1 from 'const int' to 'const std::wstring &'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(64,34): message : Reason: cannot convert from 'const int' to 'const std::wstring'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(64,34): message : 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2539,5): message : could be 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string(const _Elem *const )'
+          with
+          [
+              _Elem=wchar_t
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(64,34): message : 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string(const _Elem *const )': cannot convert argument 1 from 'const int' to 'const _Elem *const '
+          with
+          [
+              _Elem=wchar_t
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(64,34): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(3072,5): message : or       'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)'
+          with
+          [
+              _Elem=wchar_t,
+              _Alloc=std::allocator<wchar_t>
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(64,34): message : 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)': cannot convert argument 1 from 'const int' to 'std::initializer_list<_Elem>'
+          with
+          [
+              _Elem=wchar_t,
+              _Alloc=std::allocator<wchar_t>
+          ]
+          and
+          [
+              _Elem=wchar_t
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(64,34): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2569,5): message : or       'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string(_Iter,_Iter,const _Alloc &)'
+          with
+          [
+              _Alloc=std::allocator<wchar_t>
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(64,34): message : while trying to match the argument list '(const int)'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(45,5): message : or       'std::basic_ifstream<char,std::char_traits<char>>::basic_ifstream(const wchar_t *,std::ios_base::openmode,int)'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(64,33): message : 'std::basic_ifstream<char,std::char_traits<char>>::basic_ifstream(const wchar_t *,std::ios_base::openmode,int)': cannot convert argument 1 from 'const int' to 'const wchar_t *'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(64,34): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(41,5): message : or       'std::basic_ifstream<char,std::char_traits<char>>::basic_ifstream(const std::string &,std::ios_base::openmode,int)'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(64,33): message : 'std::basic_ifstream<char,std::char_traits<char>>::basic_ifstream(const std::string &,std::ios_base::openmode,int)': cannot convert argument 1 from 'const int' to 'const std::string &'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(64,34): message : Reason: cannot convert from 'const int' to 'const std::string'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(64,34): message : 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string': no overloaded function could convert all the argument types
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2539,5): message : could be 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(64,34): message : 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )': cannot convert argument 1 from 'const int' to 'const _Elem *const '
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(64,34): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(3072,5): message : or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(64,34): message : 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)': cannot convert argument 1 from 'const int' to 'std::initializer_list<_Elem>'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          and
+          [
+              _Elem=char
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(64,34): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2569,5): message : or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(_Iter,_Iter,const _Alloc &)'
+          with
+          [
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(64,34): message : while trying to match the argument list '(const int)'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(32,5): message : or       'std::basic_ifstream<char,std::char_traits<char>>::basic_ifstream(const char *,std::ios_base::openmode,int)'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(64,33): message : 'std::basic_ifstream<char,std::char_traits<char>>::basic_ifstream(const char *,std::ios_base::openmode,int)': cannot convert argument 1 from 'const int' to 'const char *'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(64,34): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(59,5): message : or       'std::basic_ifstream<char,std::char_traits<char>>::basic_ifstream(const _Ty &,std::ios_base::openmode,int)'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(64,33): message : 'std::basic_ifstream<char,std::char_traits<char>>::basic_ifstream(const _Ty &,std::ios_base::openmode,int)': could not deduce template argument for '__formal'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(64,33): message : while trying to match the argument list '(const int)'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(102,25): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(102,37): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(102,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(102,41): error C2143: syntax error: missing ',' before '&'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(105,14): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(105,26): error C2039: 'exists': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.cpp(105,26): error C3861: 'exists': identifier not found
+  iter.cpp
+  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(11,33): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(11,45): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(11,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(11,49): error C2143: syntax error: missing ',' before '&'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(12,29): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(12,41): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(12,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(12,45): error C2143: syntax error: missing ',' before '&'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(13,33): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(13,45): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(13,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(13,49): error C2143: syntax error: missing ',' before '&'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(14,28): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(14,40): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(14,44): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(14,44): error C2143: syntax error: missing ',' before '&'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(15,28): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(15,40): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(15,44): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(15,44): error C2143: syntax error: missing ',' before '&'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(16,28): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(16,40): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(16,44): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(16,44): error C2143: syntax error: missing ',' before '&'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(17,25): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(17,37): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(17,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sames\source\repos\StealthLex\StealthLex\fs.hpp(17,41): error C2143: syntax error: missing ',' before '&'
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(30,8): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(30,20): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(30,20): error C2065: 'path': undeclared identifier
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(30,25): error C2146: syntax error: missing ';' before identifier 'appData'
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(30,25): error C2065: 'appData': undeclared identifier
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(32,23): error C2065: 'appData': undeclared identifier
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(44,8): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(44,20): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(44,20): error C2065: 'path': undeclared identifier
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(44,25): error C2146: syntax error: missing ';' before identifier 'stealthLexFolderDir'
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(44,25): error C2065: 'stealthLexFolderDir': undeclared identifier
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(45,3): error C2065: 'stealthLexFolderDir': undeclared identifier
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(47,23): error C2065: 'stealthLexFolderDir': undeclared identifier
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(56,24): error C2065: 'stealthLexFolderDir': undeclared identifier
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(71,8): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(71,20): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(71,20): error C2065: 'path': undeclared identifier
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(71,25): error C2146: syntax error: missing ';' before identifier 'configFilePath'
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(71,25): error C2065: 'configFilePath': undeclared identifier
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(72,3): error C2065: 'configFilePath': undeclared identifier
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(73,3): error C2065: 'configFilePath': undeclared identifier
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(76,18): error C2065: 'configFilePath': undeclared identifier
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(81,19): error C2065: 'configFilePath': undeclared identifier
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(122,12): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(122,24): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\fstream(21,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(122,24): error C2065: 'path': undeclared identifier
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(122,29): error C2146: syntax error: missing ';' before identifier 'client_exe_path'
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(122,29): error C2065: 'client_exe_path': undeclared identifier
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(123,7): error C2065: 'client_exe_path': undeclared identifier
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(124,7): error C2065: 'client_exe_path': undeclared identifier
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(126,15): error C2065: 'client_exe_path': undeclared identifier
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(167,19): error C2065: 'configFilePath': undeclared identifier
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(244,41): error C2065: 'configFilePath': undeclared identifier
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(245,22): error C2065: 'configFilePath': undeclared identifier
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(247,54): error C2065: 'configFilePath': undeclared identifier
+C:\Users\sames\source\repos\StealthLex\StealthLex\main.cpp(250,48): error C2065: 'configFilePath': undeclared identifier
+  output.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\sames\source\repos\StealthLex\StealthLex\output.cpp(28,9): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\output.cpp(28,21): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\string(24,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\output.cpp(28,21): error C2065: 'path': undeclared identifier
+C:\Users\sames\source\repos\StealthLex\StealthLex\output.cpp(28,26): error C2146: syntax error: missing ';' before identifier 'configFilePath'
+C:\Users\sames\source\repos\StealthLex\StealthLex\output.cpp(28,26): error C2065: 'configFilePath': undeclared identifier
+C:\Users\sames\source\repos\StealthLex\StealthLex\output.cpp(29,4): error C2065: 'configFilePath': undeclared identifier
+C:\Users\sames\source\repos\StealthLex\StealthLex\output.cpp(31,9): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\sames\source\repos\StealthLex\StealthLex\output.cpp(31,21): error C2039: 'remove_all': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\string(24,1): message : see declaration of 'std'
+C:\Users\sames\source\repos\StealthLex\StealthLex\output.cpp(31,32): error C2065: 'configFilePath': undeclared identifier
+C:\Users\sames\source\repos\StealthLex\StealthLex\output.cpp(31,21): error C3861: 'remove_all': identifier not found
+  proc.cpp
+  Generating Code...
